@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<NPCs>
+  <NPC name = "Chad">
+    <Description> A description for the NPC. </Description>
+    <Line>Hello! my name is Chad</Line>
+  </NPC>
+</NPCs>
